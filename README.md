@@ -1,5 +1,4 @@
 # 🚀 ChessGame
-
 ## About the Game
 An online chess game created in python using the **_pygame_** package.  
 In order to play this game, the players need to be connected to the same LAN as the server the game is being run on.
