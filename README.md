@@ -1,4 +1,5 @@
 # 🚀 ChessGame
+
 ## About the Game
 An online chess game created in python using the **_pygame_** package.  
 In order to play this game, the players need to be connected to the same LAN as the server the game is being run on.
@@ -14,11 +15,11 @@ In order to do this, just type in a terminal the following command: </br>
 ```bash
 pip install pygame
 ```
-After that, the server must be started on a machine. Type this in a terminal opened in the <a href = "OnlineChess"> **_project's folder_** </a>:
+After that, the server must be started on a machine. Type this in a terminal opened in the <a href = "OnlineChess"> **project's folder** </a>:
 ```bash
 python server.py
 ```
-Next, players can start to connect to the server by running this command also in a terminal opened in the <a href = "OnlineChess"> **_project's folder_** </a>:
+Next, players can start to connect to the server by running this command also in a terminal opened in the <a href = "OnlineChess"> **project's folder** </a>:
 ```bash
 python client.py
 ```
