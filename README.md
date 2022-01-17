@@ -24,7 +24,7 @@ python client.py
 ```
 Note that after connecting to ther server the player must wait until an opponent is found.
 
-## Sneek Peeks
+## Sneak Peeks
 - Chessboard at the beginning </br> <img width="600" alt="chessgame-start" src="https://user-images.githubusercontent.com/93842197/149680061-1c83d9cb-6404-44f3-abb9-b5041982bd49.png">
 - Moving options highlighted </br> <img width="600" alt="chessgame-move-options" src="https://user-images.githubusercontent.com/93842197/149680074-9cf79c51-661f-4f31-b742-9b987fe0a649.png">
 - Eating a chessman </br> <img width="600" alt="chessgame-eating" src="https://user-images.githubusercontent.com/93842197/149680082-41bd0469-9a20-4727-82fc-6213d01df649.png">
